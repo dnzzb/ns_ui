@@ -1,5 +1,5 @@
 // URL of the backend API
-const API_URL = "http://network-security-project-production.up.railway.app";
+const API_URL = "https://network-security-project-production.up.railway.app";
 
 // Handle new interaction form submission (Dashboard page).
 document.getElementById("interaction-form")?.addEventListener("submit", async (e) => {
